@@ -1,7 +1,22 @@
 [
   {
-    "Just For Experiment": "com.example.forjustexpriment",
-    "Version Name": "2",
+    "Name": "Mobi-L",
+    "Version Name": "1.1.1.1.1",
+    "Update link": "1tane7Ng14dlRnQZQFmyksb01Hkm8oACN"
+  },
+  {
+    "Name": "Mobility Trainer",
+    "Version Name": "4.1.19.1.5",
+    "Update link": "1tane7Ng14dlRnQZQFmyksb01Hkm8oACN"
+  },
+  {
+    "Name": "Mend",
+    "Version Name": "2.8",
+    "Update link": "1tane7Ng14dlRnQZQFmyksb01Hkm8oACN"
+  },
+  {
+    "Name": "ADL Simulation",
+    "Version Name": "3.0.0.0",
     "Update link": "1tane7Ng14dlRnQZQFmyksb01Hkm8oACN"
   }
 ]
